@@ -1,1 +1,1 @@
-# wish-opencart
+Wish Importer OcMod for Opencart
